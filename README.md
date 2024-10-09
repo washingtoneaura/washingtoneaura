@@ -1,88 +1,59 @@
-# Hello, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm a passionate developer with expertise in various technologies. Below, you will find some of my projects and skills.
-
+# Hello, I'm Aura 👋 - A passionate developer with expertise in various technologies.
 ---
-
 ## 🛠️ Technical Skills
-
 - **Languages**: 
-  - JavaScript
-  - PHP
-  - Python
-  - HTML
-  - CSS
+  - JavaScript - PHP - Python - HTML - CSS - Java
 - **Frameworks**:
-  - Laravel
-  - Bootstrap
+  - Laravel - Bootstrap
 - **Tools & Technologies**:
-  - MySQL
-  - WordPress
-  - SCSS
-  - Git
-  - GitHub
+  - MySQL - WordPress - SCSS - Git - GitHub
 - **Interests**: 
-  - Open Source
-  - Web Development
-  - Data Scraping
-  - AI & Machine Learning
+  - Open Source - Web Development - Data Scraping - AI & Machine Learning
 
 ---
-
 ## 🚀 Projects
-
-### 🌐 [washingtoneaura](https://github.com/yourusername/washingtoneaura)
+### 🌐 [washingtoneaura](https://github.com/washingtoneaura/washingtoneaura)
 - **Type**: Public
-- **Description**: Brief description of the project.
 - **Technologies**: Laravel, PHP, MySQL, JavaScript
 - **Last Updated**: Now
 
-### 🌐 [aura](https://github.com/yourusername/aura)
+### 🌐 [aura](https://github.com/washingtone/aura)
 - **Type**: Public
-- **Description**: JavaScript-based project.
+- **Description**: HTML/CSS/JavaScript-based project.
 - **Last Updated**: 10 minutes ago
 
 ### 🌐 [data-scrapper](https://github.com/yourusername/data-scrapper)
 - **Type**: Public
 - **Description**: A tool for scraping data from websites.
-- **Technologies**: HTML
+- **Technologies**: HTML, Python
 - **Last Updated**: 5 days ago
 
 ### 🌐 [inventory-system](https://github.com/yourusername/inventory-system)
 - **Type**: Private
-- **Description**: A management system for inventory.
-- **Technologies**: Laravel, PHP, MySQL, JavaScript
+- **Description**: A management system for stock inventory.
+- **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
 - **Last Updated**: 2 weeks ago
 
 [See all my projects here!](https://github.com/yourusername?tab=repositories)
 
 ---
-
 ## 💼 Work Experience
-
 ### 🏢 @ngongroad Organization
-- **Role**: [Your Role]
-- **Description**: Describe your role and contributions here.
+- **Role**: Developer/Tech Support
 - **Website**: [ngongroad.org](http://ngongroad.org)
   
 ---
-
 ## 🌱 Current Learning Goals
 - Exploring more about **Machine Learning**
-- Deepening my knowledge in **React** and **Node.js**
+- Deepening my knowledge in **APIs** and **AI**
   
 ---
-
 ## 📫 Get in Touch
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Email**: [aurawashingtone@gmail.com](mailto:aurawashingtone@gmail.com)
+- **Website**: [aurawashingtone](https://washingtoneaura.github.io/aura/)
 
 ---
-
 ## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
