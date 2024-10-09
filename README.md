@@ -1,4 +1,4 @@
-# Hello, I'm Aura 👋 - A passionate developer with expertise in various technologies.
+# Hello, I'm Aura 👋 - A passionate developer.
 ---
 ## 🛠️ Technical Skills
 - **Languages**: 
@@ -12,29 +12,21 @@
 
 ---
 ## 🚀 Projects
-### 🌐 [washingtoneaura](https://github.com/washingtoneaura/washingtoneaura)
-- **Type**: Public
-- **Technologies**: Laravel, PHP, MySQL, JavaScript
-- **Last Updated**: Now
-
-### 🌐 [aura](https://github.com/washingtone/aura)
-- **Type**: Public
-- **Description**: HTML/CSS/JavaScript-based project.
-- **Last Updated**: 10 minutes ago
+### 🌐 [inventory-system](https://github.com/yourusername/inventory-system)
+- **Type**: Private
+- **Description**: A management system for stock inventory.
+- **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
 
 ### 🌐 [data-scrapper](https://github.com/yourusername/data-scrapper)
 - **Type**: Public
 - **Description**: A tool for scraping data from websites.
 - **Technologies**: HTML, Python
-- **Last Updated**: 5 days ago
 
-### 🌐 [inventory-system](https://github.com/yourusername/inventory-system)
-- **Type**: Private
-- **Description**: A management system for stock inventory.
-- **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
-- **Last Updated**: 2 weeks ago
+### 🌐 [aura](https://washingtoneaura.github.io/aura/)
+- **Type**: Public
+- **Description**: HTML/CSS/JavaScript-based project.
 
-[See all my projects here!](https://github.com/yourusername?tab=repositories)
+[See all my projects here!](https://github.com/washingtoneaura?tab=repositories)
 
 ---
 ## 💼 Work Experience
@@ -54,7 +46,7 @@
 
 ---
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical)
 
 
 
