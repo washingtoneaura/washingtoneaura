@@ -12,7 +12,7 @@
 
 ---
 ## 🚀 Projects
-### 🌐 [inventory-system](https://github.com/yourusername/inventory-system)
+### 🌐 [inventory-system](https://aura-inventory.up.railway.app/)
 - **Type**: Private
 - **Description**: A management system for stock inventory.
 - **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
