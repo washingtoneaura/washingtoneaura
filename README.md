@@ -17,7 +17,7 @@
 - **Description**: A management system for stock inventory.
 - **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
 
-- ### 🌐 [aurawashingtone.org](https://washingtoneaura.github.io/aura/)
+### 🌐 [aurawashingtone.org](https://washingtoneaura.github.io/aura/)
 - **Type**: Public
 - **Description**: HTML/CSS/JavaScript-based project.
 
