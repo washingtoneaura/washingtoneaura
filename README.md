@@ -17,14 +17,14 @@
 - **Description**: A management system for stock inventory.
 - **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
 
+- ### 🌐 [aurawashingtone.org](https://washingtoneaura.github.io/aura/)
+- **Type**: Public
+- **Description**: HTML/CSS/JavaScript-based project.
+
 ### 🌐 [data-scrapper](https://github.com/yourusername/data-scrapper)
 - **Type**: Public
 - **Description**: A tool for scraping data from websites.
 - **Technologies**: HTML, Python
-
-### 🌐 [aura](https://washingtoneaura.github.io/aura/)
-- **Type**: Public
-- **Description**: HTML/CSS/JavaScript-based project.
 
 [See all my projects here!](https://github.com/washingtoneaura?tab=repositories)
 
