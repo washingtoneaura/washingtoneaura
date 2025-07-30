@@ -1,4 +1,4 @@
-# Hello, I'm Aura 👋 - A passionate developer.
+# Hello, I'm Aura Washingtone 👋 - Backend & Frontend Dev.
 ---
 ## 🛠️ Technical Skills
 - **Languages**: 
