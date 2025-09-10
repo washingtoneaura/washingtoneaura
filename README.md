@@ -1,4 +1,4 @@
-# Hello, I'm Aura Washingtone 👋 - Full-Stack Dev.
+# 👋 - Full-Stack Dev.
 ---
 ## 🛠️ Technical Skills
 - **Languages**: 
