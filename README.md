@@ -14,7 +14,7 @@
 ## 🚀 Projects
 ### 🌐 [AwraIQ - Inventory & Procurement with AI](https://washingtone.techmates.team/register)
 - **Type**: Private
-- **Description**: A management system for stock inventory.
+- **Description**: A management system for stock inventory & procurement.
 - **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
 
 ### 🌐 [aurawashingtone.org](https://washingtoneaura.github.io/aura/)
