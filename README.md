@@ -1,4 +1,4 @@
-# 👋 Bridging Web — Crafting Scalable Web & AI Solutions - PHP • Laravel • AI • Multi-Tenant Systems  
+# 👋 Bridging & Crafting Scalable Web Solutions - PHP • Laravel • AI • Multi-Tenant Systems  
 
 ---
 
