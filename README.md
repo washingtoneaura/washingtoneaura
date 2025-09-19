@@ -69,9 +69,9 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 ---
 ## ⚡ My GitHub Journey  
 
-![Washingtone’s GitHub Stats](https://github-readme-stats-ppccst68o-washingtones-projects.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true)  
+![Washingtone’s GitHub Stats](https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true)  
 
-![Top Languages](https://github-readme-stats-ppccst68o-washingtones-projects.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats-mu-topaz.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true)  
 
 ---
 
@@ -97,5 +97,3 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 
 ![Profile Views](https://komarev.com/ghpvc/?username=washingtoneaura&label=Profile%20Views&color=blue&style=flat)  
 
----
- 
