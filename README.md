@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Washingtone — Full-Stack Developer  
+# 👋 Bridging Web — Crafting Scalable Web & AI Solutions - PHP • Laravel • AI • Multi-Tenant Systems  
 
 ---
 
@@ -26,7 +26,7 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 ### 🌐 [AwraIQ - Inventory & AI-Powered Procurement](https://washingtone.techmates.team/register)  
 - **Type**: Private  
 - **Description**: A multi-tenant inventory & procurement system with AI-powered quotation analysis and vendor evaluation.  
-- **Technologies**: Laravel, PHP, MySQL, Tailwind, JavaScript  
+- **Technologies**: Laravel, PHP, Python, MySQL, CSS, Tailwind, JavaScript  
 
 ### 🌐 [Aura — Personal Portfolio](https://washingtoneaura.github.io/aura/)  
 - **Type**: Public  
