@@ -67,6 +67,37 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 - **Website**: [aurawashingtone.github.io/aura](https://washingtoneaura.github.io/aura/)  
 
 ---
+## ⚡ My GitHub Journey  
+
+![Washingtone’s GitHub Stats](https://github-readme-stats-ppccst68o-washingtones-projects.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true)  
+
+![Top Languages](https://github-readme-stats-ppccst68o-washingtones-projects.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true)  
+
+---
+
+## 🔥 Contribution Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=washingtoneaura&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=washingtoneaura&theme=radical&margin-w=15&margin-h=15)  
+
+---
+
+## 📊 Activity Graph  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=washingtoneaura&theme=radical)  
+
+---
+
+## 👀 Profile Visitors  
+
+![Profile Views](https://komarev.com/ghpvc/?username=washingtoneaura&label=Profile%20Views&color=blue&style=flat)  
+
+---
 
 ## ⚡ My GitHub Journey  
 
