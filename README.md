@@ -69,15 +69,9 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 ---
 ## ⚡ My GitHub Journey  
 
-![Washingtone’s GitHub Stats](https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true)  
+![Washingtone’s GitHub Stats]([https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true](https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
 ![Top Languages](https://github-readme-stats-mu-topaz.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true)  
-
----
-
-## 🔥 Contribution Streak  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=washingtoneaura&theme=radical)  
 
 ---
 
