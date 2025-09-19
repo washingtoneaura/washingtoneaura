@@ -1,66 +1,81 @@
-# 👋 - Full-Stack Dev.
----
-## 🛠️ Technical Skills
-- **Languages**: 
-  - JavaScript - PHP - Python - HTML - CSS - Java
-- **Frameworks**:
-  - Laravel - Bootstrap
-- **Tools & Technologies**:
-  - MySQL - WordPress - SCSS - Git - GitHub
-- **Interests**: 
-  - Open Source - Web Development - Data Scraping - AI & Machine Learning
+👋 Hi, I’m Washingtone — Full-Stack Developer
+🛠️ Technical Skills
 
----
-## 🚀 Projects
-### 🌐 [AwraIQ - Inventory & Procurement with AI](https://washingtone.techmates.team/register)
-- **Type**: Private
-- **Description**: A management system for stock inventory & procurement.
-- **Technologies**: Laravel, PHP, MySQL, JavaScript. CSS
+Languages:
+PHP • Java • JavaScript • Python • HTML • CSS/SCSS
 
-### 🌐 [aurawashingtone.org](https://washingtoneaura.github.io/aura/)
-- **Type**: Public
-- **Description**: HTML/CSS/JavaScript-based project.
+Frameworks & Libraries:
+Laravel (multi-tenant apps, API integrations) • React • Tailwind CSS • Vite
 
-### 🌐 [data-scrapper](https://github.com/yourusername/data-scrapper)
-- **Type**: Public
-- **Description**: A tool for scraping data from websites.
-- **Technologies**: HTML, Python
+Databases:
+MySQL • PostgreSQL
 
-[See all my projects here!](https://github.com/washingtoneaura?tab=repositories)
+Tools & Platforms:
+Git/GitHub • Docker • Salesforce • WordPress (custom theme/plugin dev)
 
----
-## 💼 Work Experience
-### 🏢 @ngongroad Organization
-- **Role**: Developer/Tech Support
-- **Website**: [ngongroad.org](http://ngongroad.org)
-  
----
-## 🌱 Current Learning Goals
-- Exploring more about **Machine Learning**
-- Deepening my knowledge in **APIs** and **AI**
-  
----
-## 📫 Get in Touch
-- **Email**: [aurawashingtone@gmail.com](mailto:aurawashingtone@gmail.com)
-- **Website**: [aurawashingtone](https://washingtoneaura.github.io/aura/)
+Development Practices:
+RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 
----
+🚀 Featured Projects
+🌐 AwraIQ - Inventory & AI-Powered Procurement
+
+Type: Private
+
+Description: A multi-tenant inventory & procurement system with AI-powered quotation analysis and vendor evaluation.
+
+Technologies: Laravel, PHP, MySQL, Tailwind, JavaScript
+
+🌐 Aura — Personal Portfolio
+
+Type: Public
+
+Description: A clean, responsive personal portfolio site.
+
+Technologies: HTML, CSS, JavaScript
+
+🌐 Data-Scraper
+
+Type: Public
+
+Description: Python-based tool for extracting structured data from websites.
+
+Technologies: Python, BeautifulSoup, Requests
+
+👉 See all my projects here
+
+💼 Work Experience
+🏢 Ngong Road Children’s Foundation
+
+Role: Developer & Tech Support
+
+Website: ngongroad.org
+
+Highlights:
+
+Built a student sponsorship portal integrating Laravel APIs & WordPress
+
+Supported ICT curriculum migration to Linux, teaching Grades 4–8
+
+Provided tech support and digital literacy mentorship
+
+🌱 Current Learning Goals
+
+Applying AI & Machine Learning to real-world web systems
+
+Building smarter API-driven applications
+
+Scaling Laravel projects with Docker & modern DevOps
+
+📫 Get in Touch
+
+Email: aurawashingtone@gmail.com
+
+Website: aurawashingtone.github.io/aura
+
+LinkedIn: (optional — want me to add this?)
+
+
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical)
 
-
-
-<!--
-**washingtoneaura/washingtoneaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
