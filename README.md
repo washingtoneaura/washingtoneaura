@@ -1,7 +1,7 @@
 # Bridging & Crafting Scalable Web Solutions - PHP • Laravel • AI • Multi-Tenant Systems 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| ![Washingtone’s GitHub Stats](https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true&include_all_commits=false) | ![Top Languages](https://github-readme-stats-mu-topaz.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true) |
+| ![Washingtone’s GitHub Stats](https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats-mu-topaz.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true) |
 
 ---
 
