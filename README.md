@@ -8,10 +8,10 @@
 ## 🛠️ Technical Skills  
 
 **Languages:**  
-PHP • Java • JavaScript • Python • HTML • CSS/SCSS  
+PHP • Java • JavaScript • Python • HTML • CSS  
 
 **Frameworks & Libraries:**  
-Laravel (multi-tenant apps, API integrations) • React • Tailwind CSS • Vite  
+Laravel (multi-tenant apps, API integrations) • React • Tailwind • Vite  
 
 **Databases:**  
 MySQL • PostgreSQL  
