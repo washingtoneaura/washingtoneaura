@@ -60,12 +60,6 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 
 ---
 
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=washingtoneaura&theme=radical&margin-w=15&margin-h=15)  
-
----
-
 ## 📊 Activity Graph  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=washingtoneaura&theme=radical)  
