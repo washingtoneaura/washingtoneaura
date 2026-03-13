@@ -7,14 +7,11 @@
 
 ## 🛠️ Technical Skills  
 
-**Languages:**  
-PHP • Java • JavaScript • Python • HTML • CSS  
-
-**Frameworks & Libraries:**  
-Laravel (multi-tenant apps, API integrations) • React • Tailwind • Vite  
+**Languages & Frameworks:**  
+PHP • Laravel • Typescript • React Native • HTML, CSS, JS
 
 **Databases:**  
-MySQL • PostgreSQL  
+MySQL  
 
 **Tools & Platforms:**  
 Git/GitHub • Docker • Salesforce • WordPress (custom theme/plugin dev)  
@@ -26,20 +23,10 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 
 ## 🚀 Featured Projects  
 
-### 🌐 [AwraIQ - Inventory & AI-Powered Procurement](https://washingtone.techmates.team/register)  
+### 🌐 [AwraIQ - Smart Inventory & Intelligent Procurement](https://washingtone.techmates.team/register)  
 - **Type**: Private  
 - **Description**: A multi-tenant inventory & procurement system with AI-powered quotation analysis and vendor evaluation.  
 - **Technologies**: Laravel, PHP, Python, MySQL, CSS, Tailwind, JavaScript  
-
-### 🌐 [Aura — Personal Portfolio](https://washingtoneaura.github.io/aura/)  
-- **Type**: Public  
-- **Description**: A clean, responsive personal portfolio site.  
-- **Technologies**: HTML, CSS, JavaScript  
-
-### 🌐 [Data-Scraper](https://github.com/yourusername/data-scrapper)  
-- **Type**: Public  
-- **Description**: Python-based tool for extracting structured data from websites.  
-- **Technologies**: Python, BeautifulSoup, Requests  
 
 👉 [See all my projects here](https://github.com/washingtoneaura?tab=repositories)  
 
@@ -48,13 +35,8 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 ## 💼 Work Experience  
 
 ### 🏢 Ngong Road Children’s Foundation  
-- **Role**: Developer & Tech Support  
+- **Role**: IT & Web Admin  
 - **Website**: [ngongroad.org](http://ngongroad.org)  
-- **Highlights**:
-  - Managing **ngongroad.org**, **nrcfkenya.org**, [karibuloo.co.ke](https://www.karibuloo.co.ke/), **KB**, **sponsorships Laravel app**, and staging sites  
-  - Transforming **sponsor-student sponsorship portal** for optimization, and building **Friends campaigns**  
-  - ICT curriculum migration to Linux, conducting coding bootcamps  
-  - Providing ongoing **tech support** and digital literacy mentorship  
 
 ---
 
@@ -67,7 +49,7 @@ RESTful APIs • CI/CD • Secure Authentication • Multi-tenant Architectures
 
 ## 📫 Get in Touch  
 - **Email**: [aurawashingtone@gmail.com](mailto:aurawashingtone@gmail.com)  
-- **Website**: [aurawashingtone.github.io/aura](https://washingtoneaura.github.io/aura/)  
+- **Website**: [Awra Systems](https://washingtoneaura.techmates.team)  
 
 ---
 ## ⚡ My GitHub Journey  
