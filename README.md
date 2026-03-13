@@ -1,4 +1,4 @@
-# Bridging & Crafting Scalable Web Solutions - PHP • Laravel • SaaS Platforms • Typescript • React Native
+# Bridging & Crafting Scalable Web Solutions - PHP • Laravel • Typescript • React Native • SaaS Platforms
 | GitHub Stats | Top Languages |
 |--------------|---------------|
 | ![Washingtone’s GitHub Stats](https://github-readme-stats-mu-topaz.vercel.app/api?username=washingtoneaura&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v1) | ![Top Languages](https://github-readme-stats-mu-topaz.vercel.app/api/top-langs/?username=washingtoneaura&layout=compact&theme=radical&count_private=true) |
